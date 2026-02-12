@@ -1,0 +1,5 @@
+name = input("Название реактива:")
+amount = input("В каком количестве")
+print(f"{name}")
+print(f"{amount}")
+print(f"Реактив {name} поступил на склад в количестве {amount} штук")

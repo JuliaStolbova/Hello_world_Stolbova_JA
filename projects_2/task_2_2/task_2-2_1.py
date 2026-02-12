@@ -1,0 +1,7 @@
+name = input("Название курса")
+clean_name = name.strip()
+number = input ("Номер текущего этапа")
+clean_number = number.strip()
+results = input("Введите выполненные задачи")
+clean_results = results.strip()
+print("f{clean_name}\n{clean_number}\n\{clean_results}")

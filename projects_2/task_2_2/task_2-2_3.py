@@ -1,0 +1,8 @@
+name_device = input("Название оборудования:")
+device_number = input("Инвентарный номер:")
+state_device = input("Состояние оборудования(исправен/нет):")
+amount_device = input("Количество")
+print(f"{name_device}")
+print(f"{device_number}")
+print(f"{state_device}")
+print(f"{amount_device}")
