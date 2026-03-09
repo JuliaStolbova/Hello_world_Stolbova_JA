@@ -1,0 +1,24 @@
+total 16
+-rw------- 1 ulastolbova ulastolbova  1 Mar  7 10:23 files_list.txt.save
+-rw-r--r-- 1 ulastolbova ulastolbova  0 Mar  7 10:28 ls.txt
+-rwxr-xr-x 1 ulastolbova ulastolbova 41 Mar  7 10:17 task_3-12-1-find_user.sh
+-rwxr-xr-x 1 ulastolbova ulastolbova 68 Mar  7 10:09 task_3-12-1-find_user.sh.
+-rwxr-xr-x 1 ulastolbova ulastolbova 59 Mar  7 10:28 task_3-12-2-find_conf.sh
+total 20
+-rw------- 1 ulastolbova ulastolbova   1 Mar  7 10:23 files_list.txt.save
+-rw-r--r-- 1 ulastolbova ulastolbova 377 Mar  7 10:28 ls.txt
+-rwxr-xr-x 1 ulastolbova ulastolbova  41 Mar  7 10:17 task_3-12-1-find_user.sh
+-rwxr-xr-x 1 ulastolbova ulastolbova  68 Mar  7 10:09 task_3-12-1-find_user.sh.
+-rwxr-xr-x 1 ulastolbova ulastolbova  54 Mar  7 10:29 task_3-12-2-find_conf.sh
+total 20
+-rw------- 1 ulastolbova ulastolbova   1 Mar  7 10:23 files_list.txt.save
+-rw-r--r-- 1 ulastolbova ulastolbova 759 Mar  7 10:29 ls.txt
+-rwxr-xr-x 1 ulastolbova ulastolbova  41 Mar  7 10:17 task_3-12-1-find_user.sh
+-rwxr-xr-x 1 ulastolbova ulastolbova  68 Mar  7 10:09 task_3-12-1-find_user.sh.
+-rwxr-xr-x 1 ulastolbova ulastolbova  54 Mar  7 10:29 task_3-12-2-find_conf.sh
+total 20
+-rw------- 1 ulastolbova ulastolbova    1 Mar  7 10:23 files_list.txt.save
+-rw-r--r-- 1 ulastolbova ulastolbova 1141 Mar  7 10:29 ls.txt
+-rwxr-xr-x 1 ulastolbova ulastolbova   41 Mar  7 10:17 task_3-12-1-find_user.sh
+-rwxr-xr-x 1 ulastolbova ulastolbova   68 Mar  7 10:09 task_3-12-1-find_user.sh.
+-rwxr-xr-x 1 ulastolbova ulastolbova   56 Mar  7 10:31 task_3-12-2-find_conf.sh
